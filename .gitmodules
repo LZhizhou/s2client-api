@@ -1,6 +1,6 @@
 [submodule "contrib/civetweb"]
 	path = contrib/civetweb
-	url = https://github.com/Blizzard/civetweb
+	url = https://github.com/LZhizhou/civetweb
 [submodule "contrib/protobuf"]
 	path = contrib/protobuf
 	url = https://github.com/google/protobuf
